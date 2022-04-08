@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    justify-content: space-evenly;
+}
+header{
+    width: 100%;
+    height: 60px;
+    padding-top: 2.5%;
+
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+header a:hover{
+    background-color: black;
+    color: white;
+}
+header ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+video{
+    width: 100%;
+}
+
+img{
+    height: 18vh;
+    width: 18vh;
+}
+
+main{
+    display: flex;
+
+}
+
+article{
+    background-color: rgba(155, 238, 238, 0.185);
+}
+
+section{
+    padding: 3%;
+}
+
+fieldset{
+    margin: 2% 15%;
+    padding: 2%;
+}
+
+
+.left-section{
+    padding: 10vh 5vh 0vh 10vh;
+}
+
+.left-section{
+    width: 580%;
+}
+
+.green-back{
+    background-color: lightseagreen;
+    color: white;
+}
+
+.postby{
+    display: flex;
+}
+
+.purple-back{
+    background-color: rgba(238, 162, 234, 0.514);
+}
+
+.right-section{
+    padding: 10vh 10vh 0vh 5vh;
+}
+
+.blue-back{
+    background-color: rgba(39, 105, 228, 0.644);
+    color: whitesmoke;
+}
+.banner-img{
+    width: 100%;
+    height: 500px;
+}
+
+.aboutpage{
+    padding: 10%;
+}
+
+.content-p{
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    padding: 8%;
+}
+
+.table-page{
+    margin:13%;
+    width: 80%;
+}
+
+.table-page th{
+    text-align: left;
+}
+
+.even{
+    background-color: lightgray;
+}
+
+.con-banner{
+    margin: 0% 8%;
+    padding: 10%;
+    color: rgb(189, 189, 110);
+    text-align: center;
+    border: 2px solid gray;
+}
+
+.range{
+    padding-left: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.send{
+    text-align: center;
+}
